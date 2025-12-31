@@ -1,0 +1,27 @@
+# Object Files
+*.o
+
+# Input Files Used
+*.in
+
+# Hidden Files
+.*
+
+# Let .gitignore be trackable
+!.gitignore
+
+# Day 1 Executables
+locker
+locker2
+
+# Day 2 Executables
+invalid
+invalid2
+
+# Day 3 Executables
+voltage
+voltage2
+
+# Day 4 Executables
+forklift
+forklift2
